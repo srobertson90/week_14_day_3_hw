@@ -6,7 +6,7 @@ var InfoComponent = function(props){
 
   return(
     <div>
-      <h4>{props.name}</h4>
+      <h4>{/*{props.name}*/}---------------------------------------------------------------------------------</h4>
       <p>{itemData.description}</p>
       <p>{itemData.quote}</p>
     </div>
